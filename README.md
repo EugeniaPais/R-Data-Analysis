@@ -1,2 +1,2 @@
 # R-Data-Analysis
-R Data Analysis examples
+* Bellabeat exercise data analysis: [code](https://github.com/EugeniaPais/R-Data-Analysis/blob/main/bellabeat-exercise.ipynb)
